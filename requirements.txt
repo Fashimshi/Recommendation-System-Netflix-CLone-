@@ -7,3 +7,12 @@ Werkzeug
 Jinja2
 itsdangerous
 MarkupSafe
+scipy
+nltk
+beautifulsoup4
+jsonschema
+tmdbv3api
+lxml
+urllib3
+requests
+pickleshare
